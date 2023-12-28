@@ -1,0 +1,34 @@
+{
+    "cSpell.words": [
+        "DTOS",
+        "typeorm"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "database": "santo872_vendas",
+            "username": "beatriz",
+            "name": "santo_cartao"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "patinhas",
+            "database": "patinhas",
+            "username": "root"
+        }
+    ]
+}
